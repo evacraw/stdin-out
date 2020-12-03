@@ -1,0 +1,4 @@
+/bin/ linguist-vendored
+/obj/ linguist-vendored
+/.vscode/ linguist-vendored
+/.metals/ linguist-vendored

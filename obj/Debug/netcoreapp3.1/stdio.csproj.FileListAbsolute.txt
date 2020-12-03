@@ -1,0 +1,12 @@
+/Users/kota/vagrant/ubuntu64_16/workspace/repositories/stdio/obj/Debug/netcoreapp3.1/stdio.csprojAssemblyReference.cache
+/Users/kota/vagrant/ubuntu64_16/workspace/repositories/stdio/obj/Debug/netcoreapp3.1/stdio.csproj.CoreCompileInputs.cache
+/Users/kota/vagrant/ubuntu64_16/workspace/repositories/stdio/obj/Debug/netcoreapp3.1/stdio.AssemblyInfoInputs.cache
+/Users/kota/vagrant/ubuntu64_16/workspace/repositories/stdio/obj/Debug/netcoreapp3.1/stdio.AssemblyInfo.cs
+/Users/kota/vagrant/ubuntu64_16/workspace/repositories/stdio/bin/Debug/netcoreapp3.1/stdio.deps.json
+/Users/kota/vagrant/ubuntu64_16/workspace/repositories/stdio/bin/Debug/netcoreapp3.1/stdio.runtimeconfig.json
+/Users/kota/vagrant/ubuntu64_16/workspace/repositories/stdio/bin/Debug/netcoreapp3.1/stdio.runtimeconfig.dev.json
+/Users/kota/vagrant/ubuntu64_16/workspace/repositories/stdio/bin/Debug/netcoreapp3.1/stdio.dll
+/Users/kota/vagrant/ubuntu64_16/workspace/repositories/stdio/bin/Debug/netcoreapp3.1/stdio.pdb
+/Users/kota/vagrant/ubuntu64_16/workspace/repositories/stdio/obj/Debug/netcoreapp3.1/stdio.dll
+/Users/kota/vagrant/ubuntu64_16/workspace/repositories/stdio/obj/Debug/netcoreapp3.1/stdio.pdb
+/Users/kota/vagrant/ubuntu64_16/workspace/repositories/stdio/obj/Debug/netcoreapp3.1/stdio.genruntimeconfig.cache
